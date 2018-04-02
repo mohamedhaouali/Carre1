@@ -1,0 +1,45 @@
+{% extends "GestionProjetBundle::base.html.twig" %}
+
+
+{% block A %}
+    <div class="row">
+
+        <div class="col-md-3">
+            <p class="lead">Listes Des Auteurs</p>
+            <div class="list-group">
+                <a href="{{path('auteur_new')}}" class="list-group-item">Ajouter</a>
+                <a href="#"class="list-group-item">editer</a>
+                <a href="{{path('auteur_index')}}" class="list-group-item">afficher</a>
+            </div>
+        </div>
+
+
+
+<div class="col-md-9">
+            
+    <h1>Auteur</h1>
+
+    <table class ="table table-striped">
+        <tbody>
+            <tr>
+                <th>Id</th>
+                <td>{{ auteur.id }}</td>
+            </tr>
+            <tr>
+                <th>Nom</th>
+                <td>{{ auteur.nom }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <ul>
+        
+        <li>
+            {{ form_start(delete_form) }}
+                <input type="submit" value="Delete">
+            {{ form_end(delete_form) }}
+        </li>
+    </ul>
+  </div>    
+    </div>
+{% endblock A %}

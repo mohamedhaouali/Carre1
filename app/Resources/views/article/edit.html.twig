@@ -1,0 +1,40 @@
+{% extends "GestionProjetBundle::base.html.twig" %}
+
+{% block A %}
+
+    <div class="row">
+
+        <div class="col-md-3">
+            <p class="lead">Listes Des Categories</p>
+            <div class="list-group">
+                <a href="{{path('article_index')}}" class="list-group-item">Ajouter</a>
+                <a href="#"class="list-group-item">editer</a>
+                <a href="{{path('article_index')}}" class="list-group-item">afficher</a>
+            </div>
+        </div>
+
+        <div class="col-md-9">
+    
+    
+    
+    
+    <h1>Article edit</h1>
+
+    {{ form_start(edit_form) }}
+    {{ form_widget(edit_form) }}
+        <input type="submit" class="btn btn-info" value="Modifier" />
+    {{ form_end(edit_form) }}
+
+    <ul>
+                <li>
+                    <a href="{{ path('article_index') }}">Back to the list</a>
+                </li>
+                <li>
+                    {{ form_start(delete_form) }}
+                    <input type="submit" class="btn btn-danger" value="Supprimer">
+                    {{ form_end(delete_form) }}
+                </li>
+            </ul>
+        </div>    
+    </div>
+{% endblock A %}        

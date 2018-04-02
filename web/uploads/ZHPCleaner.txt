@@ -1,0 +1,118 @@
+~ ZHPCleaner v2017.5.12.80 by Nicolas Coolman (2017/05/12)
+~ Run by Mohamed (Administrator)  (13/05/2017 10:40:37)
+~ Web: https://www.nicolascoolman.com
+~ Blog: https://nicolascoolman.eu/
+~ Facebook : https://www.facebook.com/nicolascoolman1
+~ State version : Version OK
+~ Type : Nettoyer
+~ Report : C:\Users\Mohamed\Desktop\ZHPCleaner.txt
+~ Quarantine : C:\Users\Mohamed\AppData\Roaming\ZHP\ZHPCleaner_Reg.txt
+~ UAC : Activate
+~ Boot Mode : Normal (Normal boot)
+Windows 8.1 Pro, 64-bit  (Build 9600)
+
+
+---\\  Service. (0)
+~ Aucun élément malicieux ou superflu trouvé.
+
+
+---\\  Navigateur internet. (0)
+~ Aucun élément malicieux ou superflu trouvé.
+
+
+---\\  Fichier hôte. (1)
+~ Le fichier hôte est légitime. (31)
+
+
+---\\  Tâche planifiée. (0)
+~ Aucun élément malicieux ou superflu trouvé.
+
+
+---\\  Explorateur  ( Dossiers, Fichiers ). (52)
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\DeleteOnReboot.bat    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\etilqs_dq3myZ9C3MKus67    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\etilqs_UbtKKpWx3wrbPWt    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\etilqs_w4bPJbbOo2aiu4U    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\etilqs_xbIHWLtJIWPDc5Q    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileBGSocial.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileBroom.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileCheck.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileClose.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileCluff_EN.txt    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileCluff_FR.txt    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileDetected.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileExit-40.bmp    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileExit-40.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileFB.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileForum.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileGP.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileIcone.ico    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileInfo.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFilelogo-texte.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileNav_FF.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileNav_GG.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileNav_IE.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileNav_OP.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFilePayPal.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFilePercent.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileQuar.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileQuestion.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileRapport.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileSearch.png    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\ZHPCFileTransGui.jpg    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF0E9BFC141E494F58.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF15A6F9DD47919351.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF2F233AAF1354A0EA.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF36D79E546AE91F77.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF3B0C8CEB5C978EFE.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF3D06EFFC2363B577.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF489EF41DF038BFEF.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF547D0485051F2190.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF562EF92EB5EF81C3.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF5AF9E01C55A61904.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF77693DD2CB5EFAB5.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF81C532D0756C958F.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF8689AE5D503D515B.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF882F776A77BD5F55.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF8AC5731A0A11DC84.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF8E3CB2E2D1B4E2E3.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DF94C326ECC1E33310.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier^: C:\Users\Mohamed\AppData\Local\Temp\~DFA425B5FA01732873.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DFBFF642E8FB14A73B.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DFC4A61D134AAB89A1.TMP    =>.Superfluous.Temporary.Empty
+DEPLACÉ fichier: C:\Users\Mohamed\AppData\Local\Temp\~DFF246F38FB24BA0A6.TMP    =>.Superfluous.Temporary.Empty
+
+
+---\\  Base de Registres ( Clés, Valeurs, Données ). (1)
+SUPPRIMÉ donnée: [X64] HKLM\SOFTWARE\Classes\WebStorm11\Shell\Open\Command\\Default [Bad : [js] "%1" %*]  =>Broken.OpenCommand
+
+
+---\\  Récapitulatif des éléments trouvés sur votre station. (2)
+https://nicolascoolman.eu/2017/01/20/logiciels-superflus/  =>.Superfluous.Temporary.Empty
+https://nicolascoolman.eu/2017/01/27/repaquetage-et-infection/  =>Broken.OpenCommand
+
+
+---\\  Nettoyage Additionnel. (7)
+~ Suppression des Clés de registre Tracing. (7)
+~ Suppression des anciens rapports ZHPCleaner. (0)
+
+
+---\\ Bilan de la réparation
+~ Réparation réalisée avec succès.
+~ Ce navigateur est absent  (Opera Software)
+~ Le système a été redémarré.
+
+
+---\\ Statistiques
+~ Items scannés : 738
+~ Items trouvés : 0
+~ Items annulés : 0
+~ Items réparés : 53
+
+
+~ End of clean in 00h00mn29s
+~====================
+ZHPCleaner-[R]-11052017-22_19_32.txt
+ZHPCleaner-[R]-13052017-10_41_06.txt
+ZHPCleaner-[S]-11052017-22_18_11.txt
+ZHPCleaner-[S]-13052017-10_39_47.txt

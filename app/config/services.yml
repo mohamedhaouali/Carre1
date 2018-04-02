@@ -1,0 +1,41 @@
+# Learn more about services, parameters and containers at
+# http://symfony.com/doc/current/service_container.html
+parameters:
+    #parameter_name: value
+
+services:
+    #service_name:
+    #    class: AppBundle\Directory\ClassName
+    #    arguments: ['@another_service_name', 'plain_value', '%parameter_name%']
+    
+    
+# app/config/services.yml
+services:
+    app.form.registration:
+        class: Myapp\UserBundle\Form\RegistrationType
+        tags:
+            - { name: form.type, alias: app_user_registration } 
+            
+            
+# app/config/services.yml
+
+services:
+    # ...
+    admin.article:
+        class: Myapp\GestionProjetBundle\Admin\ArticleAdmin
+        arguments: [~, Myapp\GestionProjetBundle\Entity\Article, ~]
+        tags:
+            - { name: sonata.admin, manager_type: orm, label: Article }  
+            
+    admin.auteur:
+        class: Myapp\GestionProjetBundle\Admin\AuteurAdmin
+        arguments: [~, Myapp\GestionProjetBundle\Entity\Auteur, ~]
+        tags:
+            - { name: sonata.admin, manager_type: orm, label: Auteur }            
+            
+            
+
+      
+      
+ 
+      
